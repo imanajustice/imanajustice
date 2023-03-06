@@ -1,4 +1,4 @@
-### Hi there am Imana Justice and this is my first active git repo 👋
+### Hi there am Imana Justice and this is my first active git repo { Most are private :( } 👋
 
 <!--
 **imanajustice/imanajustice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
