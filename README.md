@@ -1,4 +1,4 @@
-### Hi there am Imana Justice and this is my first active git repo 👋
+### Hi there am Imana Justice and this is my first active git repo { Most are private :( } 👋
 
 <!--
 **imanajustice/imanajustice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,10 +11,12 @@ With Recen, clients can also improve their customer satisfaction levels. Our bil
 In summary, Recen is a robust utility billing SaaS that can provide potential clients with a host of benefits, including cost savings, improved accuracy, better customer satisfaction, and increased efficiency.
 ...
 - 🌱 I’m currently exploring bpxicons and different  how to use
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: EMAIL: imaanajustice@gmail.com or +254 794 930 254 imaanajustice.com
+- 👯 I’m looking to collaborate on the next Fintech Startup 
+- 🤔 I’m looking for help with Ruby on rails and basic Web3 development :)
+- 💬 Ask me about PHP, Js , Bootstrap , Anything Full-stack-ish
+- 📫 How to reach me: 
+EMAIL: imaanajustice@gmail.com or +254 794 930 254 
+WEBSITE: coming soon !!
 ...
 - 😄 Pronouns: He/Him/Sir...
 - ⚡ Fun fact: This project started as a joke , turns out it's quite beautiful :)
